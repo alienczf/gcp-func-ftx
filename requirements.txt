@@ -1,0 +1,7 @@
+requests==2.20.0
+pyarrow==6.0.1
+pytz
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-bigquery[bqstorage,pandas]
+pandas
